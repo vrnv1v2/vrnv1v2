@@ -4,7 +4,7 @@
 
 I sit at the intersection of machine learning, optimization, and operations. With a B.Tech in Chemical Engineering and AI from IIT Bombay, I focus on transforming large-scale data into actionable, mathematically-backed decisions. 
 
-Currently, I am pursuing my Master of Business Analytics (MBAn) and building production-grade LLM and ML projects.
+Currently, I am pursuing my Master of Business Analytics (MBAn) at **Massachusetts Institute of Technology** and building production-grade LLM and ML projects.
 
 ## 🚀 What I Do
 * **Decision-Focused ML:** Designing models that don't just predict, but drive optimal business choices.
