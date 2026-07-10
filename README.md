@@ -1,6 +1,6 @@
 # Hi, I'm Varun Ram Narayanan 👋
 
-**Data Scientist & ML Engineer | Building decision-oriented, interpretable, and scalable analytical systems.**
+**Aspiring Data Scientist & ML Engineer | Building decision-oriented, interpretable, and scalable analytical systems.**
 
 I sit at the intersection of machine learning, optimization, and operations. With a B.Tech in Chemical Engineering and AI from IIT Bombay, I focus on transforming large-scale data into actionable, mathematically-backed decisions. 
 
