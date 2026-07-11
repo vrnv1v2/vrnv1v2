@@ -17,15 +17,15 @@ Currently, I am pursuing my Master of Business Analytics (MBAn) at **Massachuset
 * **ML for Quantum Chemistry:** Developed reusable PyTorch architectures to predict atomic energies and forces significantly faster than traditional DFT methods.
 * **Academic Analytics:** Led a data team to model true GPA impact across departments; published interactive insights used by **7,000+ students** for course selection.
 
-## 🛠️ Tech Stack
+## 🛠️Tech Stack
 
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Languages** | Python, SQL, Bash |
-| **Machine Learning** | PyTorch, XGBoost, LightGBM, scikit-learn |
-| **Big Data & Systems** | PySpark, Git, Linux |
-| **Optimization** | Linear & Integer Programming, Constraint Modeling |
-| **Data & Viz** | Pandas, NumPy, SciPy, Streamlit, Seaborn |
+| **Deep Learning & GenAI** | PyTorch, LangGraph, LangChain |
+| **Machine Learning** | XGBoost, LightGBM, scikit-learn |
+| **Big Data & APIs** | FastAPI, PySpark, Git, Linux |
+| **Data & Viz** | Pandas, NumPy, SciPy, Streamlit, Seaborn, Plotly|
 
 ## 📫 Let's Connect
 * **LinkedIn:** [varun-ram-narayanan](https://www.linkedin.com/in/varun-ram-narayanan-959a39250/)
