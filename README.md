@@ -15,7 +15,7 @@ Currently, I am pursuing my Master of Business Analytics (MBAn) at **Massachuset
 * **American Express:** Engineered early-risk detection pipelines for credit portfolios using PySpark, leveraging rigorous statistical testing to prevent false-confidence in clustering models.
 * **Aditya Birla Group:** Built optimization-driven decision models (linear/integer programming) for iron ore procurement, minimizing costs under strict operational constraints.
 * **ML for Quantum Chemistry:** Developed reusable PyTorch architectures to predict atomic energies and forces significantly faster than traditional DFT methods.
-* **Academic Analytics:** Led a data team to model true GPA impact across departments; published interactive insights used by **7,000+ students** for course selection.
+* **Academic Analytics:** Led the Data Analytics and Visualization team at IIT Bombay to model true GPA impact across departments; published interactive insights used by **7,000+ students** for course selection.
 
 ## 🛠️Tech Stack
 
