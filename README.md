@@ -29,6 +29,6 @@ Currently, I am pursuing my Master of Business Analytics (MBAn) at **Massachuset
 
 ## 📫 Let's Connect
 * **LinkedIn:** [varun-ram-narayanan](https://www.linkedin.com/in/varun-ram-narayanan-959a39250/)
-* **Email:** vrnv1v2@gmail.com
+* **Email:** varungradiitb@gmail.com
 
 > *"I build projects that reflect how analytics is used in practice, bridging the gap between technical rigor and real-world trust."*
